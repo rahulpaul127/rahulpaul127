@@ -1,0 +1,3 @@
+- 🌐 Self-taught web developer
+- 🚀 Passionate about building web applications
+- 📚 Constantly learning and improving my skills
