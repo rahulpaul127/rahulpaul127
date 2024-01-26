@@ -6,6 +6,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rahul-paul-547b5328b/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/rahulpaul12/"><img width="32px" alt="Insta" title="Insta" src="https://i.imgur.com/ISEyV5G.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/rahulpaul127"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
